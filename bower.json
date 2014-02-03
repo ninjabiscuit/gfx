@@ -1,0 +1,14 @@
+{
+  "name": "GFX",
+  "version": "0.0.1",
+  "main": "lib/gfx.js",
+  "ignore": [
+    "**/.*",
+    "examples",
+    "site",
+    "src"
+  ],
+  "dependencies": {
+    "jquery": "~1.9.1"
+  }
+}
